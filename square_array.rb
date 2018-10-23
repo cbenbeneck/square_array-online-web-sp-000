@@ -1,5 +1,5 @@
 def square_array(array)
+  i == i ** 2
   return array.each 
-    i == i ** 2
   end
 end 
